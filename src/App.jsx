@@ -5,7 +5,7 @@ import "./App.css";
 function App() {
   return (
     <main>
-      <p>Enter each number in the array, separated by a ','</p>
+      <p>ENTER NUMBERS SEPARATED BY "," THEN CHOOSE OPERATiON</p>
       <Form />
     </main>
   );
